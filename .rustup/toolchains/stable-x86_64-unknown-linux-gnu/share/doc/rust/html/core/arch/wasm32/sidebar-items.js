@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["atomic","Intrinsics associated with WebAssembly's upcoming threads proposal."],["memory",""]]});

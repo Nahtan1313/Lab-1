@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["__msa_add_a_b","Vector Add Absolute Values."]],"struct":[["i8x16","MIPS-specific 128-bit wide vector of 16 packed `i8`."]]});
